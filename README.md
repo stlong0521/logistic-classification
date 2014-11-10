@@ -7,8 +7,16 @@ This is a project, which provides efficient and accurate multi-class classificat
 ## Table of Contents
 * What it can do
 * How it works
-* Contributor(s)
+* Contributors
 * Additional information
 
 ## What it can do
+
+## How it works
+
+## Contributors
+* Tianlong Song
+
+## Additional information
+Please refer to the presentation slides and project report in this repository.
 
