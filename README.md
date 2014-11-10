@@ -22,7 +22,7 @@ Learn the weighting vector of the logistic regression model efficiently from a l
 * Presentation Slides.pdf & Project Report.pdf: supporting documents
 
 ## How it works
-* Convert data files not in binary format into binary (use txt2bin.m if original files are in text format)
+* Convert data files not in binary format into binary to enable random file access (use txt2bin.m if original files are in text format)
 * Determine global settings according to the specific problem and given data set
   * NumExamples: Number of training examples
   * NumTestExamples: Number of testing examples
