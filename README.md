@@ -38,4 +38,4 @@ Learn the weighting vector of the logistic regression model efficiently from a l
 * Tianlong Song
 
 ## Additional information
-Please refer to the presentation slides and project report in this repository.
+Please refer to the presentation slides and project report in this repository. A brief theoretical explanation is also available on [Tianlong's blog](https://stlong0521.github.io/20160228%20-%20Logistic%20Regression.html).
